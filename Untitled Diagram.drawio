@@ -1,47 +1,119 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T02:09:53.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="XVWO_VHgVRgaRCR3GHYv" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T02:34:03.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hDz6mQvUjyYg9ykKziD7" version="22.1.0" type="github">
   <diagram name="Page-1" id="6RKQ8QhR36Z80OGBRJqj">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NoS7vFIJSqxGMSYtHHq9-5" value="Local Businesses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="354" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NoS7vFIJSqxGMSYtHHq9-6" value="General Community" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NoS7vFIJSqxGMSYtHHq9-7" value="Local Schools" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NoS7vFIJSqxGMSYtHHq9-8" value="Local Government" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="540" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NoS7vFIJSqxGMSYtHHq9-9" value="Supply Chain Partners" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="600" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NoS7vFIJSqxGMSYtHHq9-10" value="Local Farms" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-10" value="Local Farms" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="485" y="40" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NoS7vFIJSqxGMSYtHHq9-11" value="&lt;div&gt;Interest: High (sustainability and sales)&lt;/div&gt;&lt;div&gt;Influence: High (product supply)&lt;/div&gt;&lt;div&gt;Engagement: Direct and continuous&lt;/div&gt;&lt;div&gt;Benefits: Economic stability, community support&lt;/div&gt;&lt;div&gt;Needs: Reliable partnerships, consistent demand&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="NoS7vFIJSqxGMSYtHHq9-10">
           <mxGeometry y="26" width="200" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="NoS7vFIJSqxGMSYtHHq9-16" value="Youth Organizations" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-16" value="Youth Organizations" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="810" y="130" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="NoS7vFIJSqxGMSYtHHq9-17" value="&lt;div&gt;Interest: High (fundraising, education)&lt;/div&gt;&lt;div&gt;Influence: Medium to High (workforce and enthusiasm)&lt;/div&gt;&lt;div&gt;Engagement: Direct and operational&lt;/div&gt;&lt;div&gt;Benefits: Revenue, entrepreneurial experience&lt;/div&gt;&lt;div&gt;Needs: Guidance, support, and a structured program&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="NoS7vFIJSqxGMSYtHHq9-16">
           <mxGeometry y="26" width="200" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="NoS7vFIJSqxGMSYtHHq9-18" value="Subscribers (Box Buyers)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-18" value="Subscribers (Box Buyers)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="160" y="110" width="200" height="190" as="geometry" />
         </mxCell>
         <mxCell id="NoS7vFIJSqxGMSYtHHq9-19" value="&lt;div&gt;Interest: Medium to High (product quality and community impact)&lt;/div&gt;&lt;div&gt;Influence: Medium (funding through purchase)&lt;/div&gt;&lt;div&gt;Engagement: Direct (purchasers of the product)&lt;/div&gt;&lt;div&gt;Benefits: Access to healthy produce, supporting local causes&lt;/div&gt;&lt;div&gt;Needs: Quality products, convenient purchase process&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="NoS7vFIJSqxGMSYtHHq9-18">
           <mxGeometry y="26" width="200" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="NoS7vFIJSqxGMSYtHHq9-20" value="Community Harvest Staff" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="485" y="329" width="200" height="170" as="geometry" />
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-20" value="Community Harvest Staff" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="485" y="260" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NoS7vFIJSqxGMSYtHHq9-21" value="&lt;div&gt;Interest: High (program success)&lt;/div&gt;&lt;div&gt;Influence: High (operational control)&lt;/div&gt;&lt;div&gt;Engagement: Direct and managerial&lt;/div&gt;&lt;div&gt;Benefits: Job satisfaction, community impact&lt;/div&gt;&lt;div&gt;Needs: Effective program design, staff, and resources&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="NoS7vFIJSqxGMSYtHHq9-20">
           <mxGeometry y="26" width="200" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-22" value="Local Businesses" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="810" y="370" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-23" value="&lt;div&gt;Interest: Medium (community presence and marketing)&lt;/div&gt;&lt;div&gt;Influence: Low to Medium (supportive role)&lt;/div&gt;&lt;div&gt;Engagement: Indirect (partnership and support)&lt;/div&gt;&lt;div&gt;Benefits: Increased foot traffic, community goodwill&lt;/div&gt;&lt;div&gt;Needs: Community engagement, local network&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="NoS7vFIJSqxGMSYtHHq9-22">
+          <mxGeometry y="26" width="200" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-24" value="General Community" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="610" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-25" value="&lt;div&gt;Interest: Low to Medium (overall community well-being)&lt;/div&gt;&lt;div&gt;Influence: Low (not directly involved)&lt;/div&gt;&lt;div&gt;Engagement: Indirect (beneficiaries of a healthier community)&lt;/div&gt;&lt;div&gt;Benefits: Economic growth, healthier lifestyle promotion&lt;/div&gt;&lt;div&gt;Needs: Awareness, indirect benefits from community improvements&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="NoS7vFIJSqxGMSYtHHq9-24">
+          <mxGeometry y="26" width="200" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-26" value="Local Government" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="485" y="480" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-27" value="&lt;div&gt;Interest: Medium (community development, economic growth)&lt;/div&gt;&lt;div&gt;Influence: High (funding and regulation)&lt;/div&gt;&lt;div&gt;Engagement: Indirect (policy and financial support)&lt;/div&gt;&lt;div&gt;Benefits: Stronger community, model for other initiatives&lt;/div&gt;&lt;div&gt;Needs: Successful community programs, accountability&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="NoS7vFIJSqxGMSYtHHq9-26">
+          <mxGeometry y="26" width="200" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-28" value="Supply Chain Partners" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-29" value="&lt;div&gt;Interest: Medium (business opportunities)&lt;/div&gt;&lt;div&gt;Influence: Medium (operational effectiveness)&lt;/div&gt;&lt;div&gt;Engagement: Direct (service provision)&lt;/div&gt;&lt;div&gt;Benefits: Business growth, stable contracts&lt;/div&gt;&lt;div&gt;Needs: Consistent demand, efficient operations&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="NoS7vFIJSqxGMSYtHHq9-28">
+          <mxGeometry y="26" width="200" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-30" value="Legend" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=left;verticalAlign=top;fillColor=none;strokeColor=none;fontColor=#4D4D4D;fontStyle=1;spacingLeft=6;spacing=0;resizable=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="610" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#005700;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#008a00;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=#ffffff;" vertex="1" parent="NoS7vFIJSqxGMSYtHHq9-30">
+          <mxGeometry y="30" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-32" value="High Impact Stakeholder" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#005700;overflow=hidden;fillColor=#008a00;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#ffffff;spacingLeft=10;spacingRight=4;" vertex="1" parent="NoS7vFIJSqxGMSYtHHq9-31">
+          <mxGeometry width="180" height="20" as="geometry">
+            <mxRectangle width="180" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#B09500;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#e3c800;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=#000000;" vertex="1" parent="NoS7vFIJSqxGMSYtHHq9-30">
+          <mxGeometry y="50" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-34" value="Medium Impact Stakeholder" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#B09500;overflow=hidden;fillColor=#e3c800;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#000000;spacingLeft=10;spacingRight=4;" vertex="1" parent="NoS7vFIJSqxGMSYtHHq9-33">
+          <mxGeometry width="180" height="20" as="geometry">
+            <mxRectangle width="180" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-35" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#006EAF;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#1ba1e2;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=#ffffff;" vertex="1" parent="NoS7vFIJSqxGMSYtHHq9-30">
+          <mxGeometry y="70" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-36" value="Low Impact Stakeholder" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#52a2d8;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" vertex="1" parent="NoS7vFIJSqxGMSYtHHq9-35">
+          <mxGeometry width="180" height="20" as="geometry">
+            <mxRectangle width="180" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-44" value="" style="endArrow=none;html=1;rounded=0;entryX=0.475;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NoS7vFIJSqxGMSYtHHq9-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="260" as="sourcePoint" />
+            <mxPoint x="620" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-45" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NoS7vFIJSqxGMSYtHHq9-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="480" as="sourcePoint" />
+            <mxPoint x="585" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-46" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NoS7vFIJSqxGMSYtHHq9-18" target="NoS7vFIJSqxGMSYtHHq9-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="470" as="sourcePoint" />
+            <mxPoint x="620" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-47" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.01;entryY=0.792;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NoS7vFIJSqxGMSYtHHq9-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="400" as="sourcePoint" />
+            <mxPoint x="410" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-49" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.01;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NoS7vFIJSqxGMSYtHHq9-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="685" y="340" as="sourcePoint" />
+            <mxPoint x="735" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NoS7vFIJSqxGMSYtHHq9-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NoS7vFIJSqxGMSYtHHq9-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="685" y="400" as="sourcePoint" />
+            <mxPoint x="735" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
